@@ -6,7 +6,7 @@
 #include <ESP8266HTTPClient.h> // HTTP 클라이언트와 웹 서버 연결 라이브러리
 #include <WiFiClientSecure.h> // HTTPS 요청 지원 라이브러리
 #include <ArduinoJson.h> // JSON 데이터 제어 라이브러리
-#include <UniversalTelegramBot.h> //
+#include <UniversalTelegramBot.h> // 텔레그램 통신 라이브러리
 // OLED, LED 설정
 #define SCREEN_WIDTH 128  // OLED 너비 설정
 #define SCREEN_HEIGHT 64  // OLED 높이 설정
